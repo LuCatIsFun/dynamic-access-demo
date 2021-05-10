@@ -1,0 +1,16 @@
+.DS_Store
+/.idea/
+/venv/
+*.log
+/env/
+flower
+*.pyc
+db.sqlite3
+__pycache__
+/env/env.*
+/env/env
+/env/kube_config*
+tests.py
+/logs/*
+/test.py
+/celerybeat-schedule

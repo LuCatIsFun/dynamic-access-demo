@@ -1,0 +1,22 @@
+# 三幻神
+Django==3.2
+celery==4.4.2
+uwsgi==2.0.18
+
+# 经典搭配
+requests==2.23.0
+shortuuid==1.0.1
+mysqlclient==2.0.1
+
+# 框架拓展
+django-filter==2.4.0
+django-redis==4.11.0
+django-environ==0.4.5
+djangorestframework==3.12.4
+django-request-sign==1.1.4
+django-cors-headers==3.2.1
+
+# websocket支持
+daphne==3.0.2
+channels==3.0.3
+channels-redis==3.2.0
