@@ -1,4 +1,16 @@
-# 项目
+# Kubernetes动态准入控制
+
+## 说明
+
+基于Kubernetes 动态准入控制功能，实现针对资源权限控制。可使用的场景：强制命名规范，资源发布控制，审计等。
+
+
+## 流程图
+
+<div align=center>
+    <img src="https://user-images.githubusercontent.com/22042809/120790879-15528e00-c566-11eb-8295-1b5bf151b31d.png" width="70%">
+</div>
+
 
 
 ## 目录结构
